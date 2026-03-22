@@ -21,6 +21,7 @@ Options:
                                 operating on links, block devices, etc. Unrecognized formats will be
                                 passed-through through as-is.
   -q, --quiet                   Suppress warnings; pass twice to suppress errors.
+  -v, --verbose                 Enable verbose output; pass multiple times to increase verbosity.
 
   -h                            Display short usage and exit.
   -H, --help                    Display full help and exit.
